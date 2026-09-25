@@ -6,4 +6,4 @@
   ![Mykolas Ruth](avatar.png)
 
 - **Graduating year:** 2028
-- **Project sub-area:** Contexual AI Drones 
+- **Project sub-area:** Contextual AI Drones 
